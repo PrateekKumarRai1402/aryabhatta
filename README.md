@@ -1,6 +1,6 @@
-# Aryabhatta Units
+# Aryabhatta 
 
-Aryabhatta Units is a lightweight Python library for unit conversions, inspired by the legacy of Aryabhata.
+Aryabhatta  is a lightweight Python library for unit conversions, inspired by the legacy of Aryabhata.
 
 ## Supported Categories
 - Length
